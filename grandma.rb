@@ -9,6 +9,13 @@ def speak_to_grandma(phrase)
     end
 end
 
+speak_to_grandma("I LOVE YOU GRANDMA!")
+speak_to_grandma("Hi, Nana, how are you?")
+speak_to_grandma("Hi!")
+speak_to_grandma("WHAT DI YOU EAT TODAY?")
+speak_to_granmda("WHAT?")
+
+
   # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
