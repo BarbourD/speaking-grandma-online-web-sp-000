@@ -13,7 +13,7 @@ speak_to_grandma("I LOVE YOU GRANDMA!")
 speak_to_grandma("Hi, Nana, how are you?")
 speak_to_grandma("Hi!")
 speak_to_grandma("WHAT DI YOU EAT TODAY?")
-speak_to_granmda("WHAT?")
+speak_to_grandma("WHAT?")
 
 
   # Write a speak_to_grandma method.
